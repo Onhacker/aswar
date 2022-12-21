@@ -275,7 +275,7 @@ Kami Mengundang <?php echo $seb; ?> Untuk Menghadiri Acara Pernikahan Kami.
 
                             <span class="gla_news_title"><strong>Akad Nikah & Resepsi</strong></span>
                            
-                           <p> <b>Senin, 02 Desember 2023<br>Pukul 10.00 WITA - Selesai<br></b>Di Jalan Kelapa Siwa, Kecamatan Pitumpanua Kabupaten Wajo</p><br>
+                           <p> <b>Senin, 02 Januari 2023<br>Pukul 10.00 WITA - Selesai<br></b>Di Jalan Kelapa Siwa, Kecamatan Pitumpanua Kabupaten Wajo</p><br>
 
                         </a>
                     </div> 
