@@ -7,20 +7,20 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="shortcut icon" href="<?php echo base_url("assets/und/") ?>images/favicon.ico" >
     <link rel="canonical" href="<?php echo site_url(); ?>" >
-    <meta name=title content="Aswar dan Ampa" >
+    <meta name=title content="Aswar Adnan dan Tenri Ampa" >
     <meta name=author content="Onhacker" >
     <meta name=language content="Indonesia" >
     <meta name=googlebot-news content="noindex" >
     <meta name=googlebot content="noindex" >
     <meta name=robots content="noindex">
-    <meta name=description content="Undangan Online Pernikahan Aswar dan Ampa Tanggal 02 Januari 2023. Undangan pernikahan online by onhacker.co.id" >
+    <meta name=description content="Undangan Online Pernikahan Aswar Adnan dan Tenri Ampa Tanggal 02 Januari 2023. Undangan pernikahan online by onhacker.co.id" >
     <meta name=keywords content="onhacker,undangan,pernikahan,online,website,wedding,invitation">
     <meta property="og:url" content="<?php echo site_url(); ?>" >
-    <meta property="og:title" content="Aswar dan Ampa" >
-    <meta property="og:description" content="Undangan Online Pernikahan Aswar dan Ampa Tanggal 02 Januari 2023. Undangan pernikahan online by onhacker.co.id" >
+    <meta property="og:title" content="Aswar Adnan dan Tenri Ampa" >
+    <meta property="og:description" content="Undangan Online Pernikahan Aswar Adnan dan Tenri Ampa Tanggal 02 Januari 2023. Undangan pernikahan online by onhacker.co.id" >
     <meta property="og:image" content="<?php echo base_url("assets/und/") ?>images/hmm.jpeg" >
     <link itemprop="thumbnailUrl" href="<?php echo base_url("assets/und/") ?>images/hmm.jpeg"> <span itemprop="thumbnail" itemscope itemtype="http://schema.org/ImageObject"> <link itemprop="url" href="<?php echo base_url("assets/und/") ?>images/hmm.jpeg"> </span>
-    <meta property="og:image:alt" content="Aswar dan Ampa" >
+    <meta property="og:image:alt" content="Aswar Adnan dan Tenri Ampa" >
     <title>Undangan Pernikahan Aswar & Ampa</title>
 
 
